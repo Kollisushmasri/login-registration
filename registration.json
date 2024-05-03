@@ -1,0 +1,13 @@
+{
+    "message": "Registration successful!",
+    "userData": {
+      "name": "John Doe",
+      "age": 30,
+      "address": "123 Main St, Anytown",
+      "phone": "123-456-7890",
+      "password": "password",
+      "email": "john@example.com",
+      "agreement": true
+    }
+  }
+  
